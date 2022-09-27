@@ -1,0 +1,15 @@
+"D:\ROB\IAR Embedded Workbench for ARM 8.32.1\IAR Embedded Workbench for ARM 8.32.1\arm\bin\armproc.dll" 
+
+"D:\ROB\IAR Embedded Workbench for ARM 8.32.1\IAR Embedded Workbench for ARM 8.32.1\arm\bin\armJET.dll" 
+
+"D:\ROB\SimpleLib_workspace\SimpleLib_workspace\EWARM\SimpleLib_workspace\Exe\SimpleLib_workspace.out" 
+
+--plugin="D:\ROB\IAR Embedded Workbench for ARM 8.32.1\IAR Embedded Workbench for ARM 8.32.1\arm\bin\armbat.dll" 
+
+--device_macro="D:\ROB\IAR Embedded Workbench for ARM 8.32.1\IAR Embedded Workbench for ARM 8.32.1\arm\config\debugger\ST\STM32F4xx.dmac" 
+
+--flash_loader="D:\ROB\IAR Embedded Workbench for ARM 8.32.1\IAR Embedded Workbench for ARM 8.32.1\arm\config\flashloader\ST\FlashSTM32F4xxx.board" 
+
+
+
+

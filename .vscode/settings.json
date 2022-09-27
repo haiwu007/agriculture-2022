@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "stm32f4xx_hal.h": "c",
+        "omni_chassis.h": "c",
+        "base_chassis.h": "c",
+        "main.h": "c",
+        "cmd.h": "c"
+    }
+}
